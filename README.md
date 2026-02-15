@@ -3,4 +3,4 @@
 ## Document handling
 
 ### Document transformation
-(https://pandoc.org/)[pandoc]
+[Pandoc](https://pandoc.org/) - all kinds of text formats
